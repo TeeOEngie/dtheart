@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 streamlit
-plotly==5.9.0
+plotly
 streamlit_lottie
 scikit-learn
 joblib
